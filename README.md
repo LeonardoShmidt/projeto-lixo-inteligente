@@ -1,4 +1,4 @@
-#Projeto: Lixo Auto-Reciclável com Arduino
+Projeto: Lixo Auto-Reciclável com Arduino
 Este repositório apresenta o desenvolvimento de um protótipo de lixo auto‑reciclável, capaz de identificar e separar automaticamente materiais recicláveis (metal, papel e plástico) por meio de sensores e automação com Arduino. O projeto foi desenvolvido no curso de Ciência da Computação da UniFAJ, integrando conceitos de Engenharia de Software, Automação, Programação e Sustentabilidade.
 
 Contexto e motivação
