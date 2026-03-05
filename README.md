@@ -44,5 +44,3 @@ Como estudante de Ciência da Computação (bacharelado em andamento) com discip
 Este projeto está diretamente ligado ao meu objetivo profissional de atuar na área de TI, integrando programação, automação e resolução de problemas reais.  Além do aprendizado técnico, também fortaleceu competências que desenvolvo na minha experiência profissional como operador de produção, como foco em qualidade, cumprimento de metas, trabalho em equipe e atenção a detalhes em ambientes de alta demanda.
 
 ***
-
-Quer que eu adapte esse texto para inglês também, para deixar o README bilíngue e mais atrativo para recrutadores?
