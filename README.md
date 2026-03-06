@@ -45,7 +45,7 @@ Este projeto está diretamente ligado ao meu objetivo profissional de atuar na �
 
 ***
 ### Protótipo físico em funcionamento
-![Protótipo físico do lixo auto-reciclável](URL_IMAGEM_PROTO_AQUI)
+![Protótipo físico do lixo auto-reciclável](https://github.com/LeonardoShmidt/projeto-lixo-inteligente/blob/main/imagem-projeto.jpg?raw=true)
 
 ## Demonstração em vídeo
 
