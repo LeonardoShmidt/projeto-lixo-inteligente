@@ -49,5 +49,5 @@ Este projeto está diretamente ligado ao meu objetivo profissional de atuar na �
 
 ## Demonstração em vídeo
 
-Demonstração do protótipo em funcionamento (YouTube):  
-[![Demonstração do protótipo](https://img.youtube.com/vi/YNr2r0dUOIU?si=qU8xEL5Yyb5bP8Jv/hqdefault.jpg)]((https://youtube.com/watch?v=YNr2r0dUOIU?si=qU8xEL5Yyb5bP8Jv))
+[![Demonstração do protótipo](https://img.youtube.com/vi/YNr2r0dUOIU/hqdefault.jpg)](https://www.youtube.com/watch?v=YNr2r0dUOIU)
+
