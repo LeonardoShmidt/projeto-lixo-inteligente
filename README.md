@@ -44,3 +44,10 @@ Como estudante de Ciência da Computação (bacharelado em andamento) com discip
 Este projeto está diretamente ligado ao meu objetivo profissional de atuar na área de TI, integrando programação, automação e resolução de problemas reais.  Além do aprendizado técnico, também fortaleceu competências que desenvolvo na minha experiência profissional como operador de produção, como foco em qualidade, cumprimento de metas, trabalho em equipe e atenção a detalhes em ambientes de alta demanda.
 
 ***
+### Protótipo físico em funcionamento
+![Protótipo físico do lixo auto-reciclável](URL_IMAGEM_PROTO_AQUI)
+
+## Demonstração em vídeo
+
+Demonstração do protótipo em funcionamento (YouTube):  
+[![Demonstração do protótipo](https://img.youtube.com/vi/qU8xEL5Yyb5bP8Jv/hqdefault.jpg)]((https://youtube.com/shorts/YNr2r0dUOIU?si=qU8xEL5Yyb5bP8Jv))
